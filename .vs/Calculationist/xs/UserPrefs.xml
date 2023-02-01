@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{AEB5843E-F4D1-4F3D-BCCB-D106E663B22A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Midterm/Midterm/CurrencyPage.xaml">
+    <Files>
+      <File FileName="Midterm/Midterm/App.xaml.cs" Line="19" Column="14" IsPinned="True" />
+      <File FileName="Midterm/Midterm/MainPage.xaml" Line="9" Column="35" IsPinned="True" />
+      <File FileName="Midterm/Midterm/CalAge.xaml" Line="171" Column="62" IsPinned="True" />
+      <File FileName="Midterm/Midterm/CurrencyPage.xaml.cs" />
+      <File FileName="Midterm/Midterm/TimeCon.xaml.cs" />
+      <File FileName="Midterm/Midterm/BmiPage.xaml.cs" />
+      <File FileName="Midterm/Midterm.Android/Resources/mipmap-anydpi-v26/icon.xml" />
+      <File FileName="Midterm/Midterm/BmiPage.xaml" />
+      <File FileName="Midterm/Midterm/CurrencyPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Calculationist" expanded="True">
+            <Node name="Midterm" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="BmiPage.xaml" expanded="True" />
+              <Node name="CalAge.xaml" expanded="True" />
+              <Node name="CurrencyPage.xaml" expanded="True" />
+              <Node name="DataCal.xaml" expanded="True" />
+              <Node name="DiscountCal.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="TimeCon.xaml" expanded="True" />
+            </Node>
+            <Node name="Midterm.Android" expanded="True">
+              <Node name="Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.Midterm.Android PreferredExecutionTarget="Android.pixel_5_-_api_29" Xamarin.HotReload.DebuggerTimeoutException.Midterm.Android.HideInfoBar="True" Xamarin.HotReload.WrongLinkerErrorInfoBar.Midterm.Android.HideInfoBar="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.pixel_5_-_api_29" />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+</Properties>
